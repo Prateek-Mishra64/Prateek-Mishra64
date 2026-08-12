@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prateek-Mishra64
-- 👀 I’m interested in Machine Learning Automation, 3D Modelling.
-- 🌱 I’m currently learning Python, Machine Learning, Blender.
+- 👀 I’m interested in System Design and Programming, DevOPS.
+- 🌱 I’m currently learning Python, C, C++, Docker, Kubernetes, Terraform.
 - 💞️ I’m looking to collaborate on nothing as now.
-- 📫 How to reach me gmail= paradoxicalme64@gmail.com
+- 📫 How to reach me gmail:- paradoxicalme64@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There’s a species of jellyfish known as Turritopsis dohrnii that is essentially biologically immortal.
 
